@@ -1,2 +1,2 @@
 # LandingPage-Marketing
-Landing Page que criei colocando meus conhecimentos em prática
+Landing Page que criei colocando meus conhecimentos em prática.
