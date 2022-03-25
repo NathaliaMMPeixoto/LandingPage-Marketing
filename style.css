@@ -26,9 +26,6 @@ li {
 ul {
   list-style-type: none;
 }
-h1 {
-  font-weight: 200;
-}
 
 main {
   display: flex;
